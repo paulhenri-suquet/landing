@@ -1,0 +1,11 @@
+.btn-brown{
+    background-color: #EA5C18;
+    color: beige;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 4px;
+  }
+.btn-brown:hover {
+    background-color: brown;
+    color: beige;
+  }
