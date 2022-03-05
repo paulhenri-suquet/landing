@@ -1,7 +1,7 @@
-@import url("../components/#container.css");
-@import url("../components/banner.css");
-@import url("../components/button.css");
-@import url('../components/card.css');
+@import url("components/#container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url('components/card.css');
 
 body {
 background-color: #648090;
